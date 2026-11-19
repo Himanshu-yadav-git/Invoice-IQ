@@ -243,5 +243,7 @@ DocuSmart-AI/
 This project is proprietary and built for small businesses seeking intelligent document processing.
 =======
 # Invoice-IQ
+<<<<<<< HEAD
 InvoiceIQ is an intelligent document processing system that automates invoice and receipt management for small businesses. It extracts data using OCR, validates information, detects duplicates and anomalies, and allows users to review, edit, and export verified records efficiently.
->>>>>>> dd56b9c759b8f69808dfd7730083877081c0266a
+=======
+InvoiceIQ is an intelligent document processing system that automates invoice and receipt management for small businesses. It extracts data using OCR, validates information, detects duplicates and anomalies, and allows users to review, edit, and export verified records efficiently.
