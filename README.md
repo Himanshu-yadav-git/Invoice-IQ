@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DocuSmart AI — Intelligent Document Processing for Small Businesses
 
 > A modern, high-performance SaaS frontend for Intelligent Document Processing (IDP). Automatically extract, validate, manage, and audit invoices, receipts, and commercial documents with AI precision.
@@ -240,3 +241,7 @@ DocuSmart-AI/
 
 ## 📄 License
 This project is proprietary and built for small businesses seeking intelligent document processing.
+=======
+# Invoice-IQ
+InvoiceIQ is an intelligent document processing system that automates invoice and receipt management for small businesses. It extracts data using OCR, validates information, detects duplicates and anomalies, and allows users to review, edit, and export verified records efficiently.
+>>>>>>> dd56b9c759b8f69808dfd7730083877081c0266a
